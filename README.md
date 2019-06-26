@@ -72,3 +72,16 @@ _// Bad //_
 - Confirmation and reminder emails
 
 * What others don't and ScheduleMe do with love
+
+---
+
+## **Personae**
+
+1. Steven - Junior Developer Software
+   https://www.hubspot.com/make-my-persona?persona=-LiJ1-A8D0C1LVhUClGW
+
+2. Daniel - Lead Tech Software
+   https://www.hubspot.com/make-my-persona?persona=-LiJ79qAjSN3TR5NxwgQ
+
+3. Gabriella - Analyst/Conceptor Software
+   https://www.hubspot.com/make-my-persona?persona=-LiJCTrxPUhBSxd_UnSp
