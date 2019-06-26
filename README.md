@@ -1,14 +1,13 @@
-## **ScheduleMe ?**
+## **ScheduleMe**
 
-App for creating articles and organize friday's afternoon with various topics from team members.
-
-**Why ?**
+**How ?**
 
 The idea from ScheduleMe was born after a meeting about why we stopped our friday's afternoon workshop and how can we restart the initiative of scheduling afternoon's meetings with team members.
 
-**What can I do with this App ?**
+**What can I do with this ?**
 
-With ScheduleMe, you can create various articles ( news about the latests update release of programming libraries/framework, events etc...) and organize different workshops with team members to share knowledge, practice some programming skills etc.
+ScheduleMe is "plug & play" app, you log in with your favorite social network and then you have access to various content published by your team members or other collaborators.
+But the heart of this application is about scheduling and with all the various tools this app have to offer, you and your team never miss an event/workshop/meeting ever again !
 
 ---
 
@@ -26,12 +25,15 @@ _// Good //_
 
 _// Bad //_
 
-- Free trials = No permanent free content
-- Premium
-- No possibilities for creating content such as articles
-- No social network integration (Discord/FB/TW/Slack...)
+- **Free trials = No permanent free content** \*
+- **Premium** \*
+- **No possibilities for creating content such as articles** \*
+- **No social network integration (Discord/FB/TW/Slack...)** \*
+- **Creating account required** \*
 - Ads on free content (trials version)
 - No API integration
+
+---
 
 **https://calendly.com/**
 
@@ -47,18 +49,26 @@ _// Good //_
 
 _// Bad //_
 
-- Free trials = No permanent free content
-- Premium
-- No possibilities for creating content such as articles
-- No social network integration (Discord/FB/TW/Slack...)
+- **Free trials = No permanent free content** \*
+- **Premium** \*
+- **No possibilities for creating content such as articles** \*
+- **No social network integration (Discord/FB/TW/Slack...)** \*
+- **Creating account required** \*
 - Ads on free content (trials version)
 
-# Difference with ScheduleMe
+---
 
-- _No premium content, 100% free_
+# ScheduleMe
+
+**https://scheduleme.com/**
+
+- **Plug&Play, no sign in required**
+- **No premium content, 100% free**
+- **Content creation such as articles**
+- **Social Network integration (Slack/FB/TW/Discord etc...)**
 - No ads (Yes, you read it even without premium content)
 - API integration (Google Calendar/Dashboard/Metrics/Reporting etc...)
-- _Social Network integration (Slack/FB/TW/Discord etc...)_
 - Log in featured with social network (Log in with your Slack/FB/TW etc. account)
-- _Content creation such as articles_
 - Confirmation and reminder emails
+
+* What others don't and ScheduleMe do with love
