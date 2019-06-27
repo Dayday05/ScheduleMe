@@ -85,3 +85,9 @@ But the heart of this application is about scheduling and with all the various t
 
 3. Gabriella - Analyst/Conceptor Software
    https://www.hubspot.com/make-my-persona?persona=-LiJCTrxPUhBSxd_UnSp
+
+---
+
+## **Feature List**
+
+https://github.com/Dayday05/ScheduleMe/projects/1
