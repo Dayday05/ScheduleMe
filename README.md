@@ -79,7 +79,7 @@ But the heart of this application is about scheduling and with all the various t
    https://www.hubspot.com/make-my-persona?persona=-LiN-g_i5jy4NYX6MyTv
 
 2. Daniel - Lead Tech Software
-   https://www.hubspot.com/make-my-persona?persona=-LiJ79qAjSN3TR5NxwgQ
+   https://www.hubspot.com/make-my-persona?persona=-LiO6VwGx3YfSFeQPaEq
 
 3. Gabriella - Analyst/Conceptor Software
    https://www.hubspot.com/make-my-persona?persona=-LiJCTrxPUhBSxd_UnSp
