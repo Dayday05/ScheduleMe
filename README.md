@@ -15,7 +15,7 @@ But the heart of this application is about scheduling and with all the various t
 
 **https://doodle.com/**
 
-_// Good //_
+# **Good**
 
 - Homepage with knowledge to use the app
 - Help section with chatbox/search bar
@@ -23,7 +23,7 @@ _// Good //_
 - Mobile device support
 - International language
 
-_// Bad //_
+# **Bad**
 
 - **Free trials = No permanent free content** \*
 - **Premium** \*
@@ -37,7 +37,7 @@ _// Bad //_
 
 **https://calendly.com/**
 
-_// Good //_
+# **Good**
 
 - Homepage with knowledge to use the app
 - API integration such as Goole/Paypal/Zoom etc...
@@ -47,7 +47,7 @@ _// Good //_
 - International language
 - Video tutorials
 
-_// Bad //_
+# **Bad**
 
 - **Free trials = No permanent free content** \*
 - **Premium** \*
@@ -78,7 +78,7 @@ _// Bad //_
 ## **Personae**
 
 1. Steven - Junior Developer Software
-   https://www.hubspot.com/make-my-persona?persona=-LiJ1-A8D0C1LVhUClGW
+   https://www.hubspot.com/make-my-persona?persona=-LiN-g_i5jy4NYX6MyTv
 
 2. Daniel - Lead Tech Software
    https://www.hubspot.com/make-my-persona?persona=-LiJ79qAjSN3TR5NxwgQ
