@@ -1,4 +1,4 @@
-## **ScheduleMe**
+# **ScheduleMe**
 
 **How ?**
 
@@ -11,11 +11,11 @@ But the heart of this application is about scheduling and with all the various t
 
 ---
 
-## **Benchmark**
+# **Benchmark**
 
 **https://doodle.com/**
 
-# **Good**
+## **Good**
 
 - Homepage with knowledge to use the app
 - Help section with chatbox/search bar
@@ -23,7 +23,7 @@ But the heart of this application is about scheduling and with all the various t
 - Mobile device support
 - International language
 
-# **Bad**
+## **Bad**
 
 - **Free trials = No permanent free content** \*
 - **Premium** \*
@@ -37,7 +37,7 @@ But the heart of this application is about scheduling and with all the various t
 
 **https://calendly.com/**
 
-# **Good**
+## **Good**
 
 - Homepage with knowledge to use the app
 - API integration such as Goole/Paypal/Zoom etc...
@@ -47,7 +47,7 @@ But the heart of this application is about scheduling and with all the various t
 - International language
 - Video tutorials
 
-# **Bad**
+## **Bad**
 
 - **Free trials = No permanent free content** \*
 - **Premium** \*
@@ -57,8 +57,6 @@ But the heart of this application is about scheduling and with all the various t
 - Ads on free content (trials version)
 
 ---
-
-# ScheduleMe
 
 **https://scheduleme.com/**
 
@@ -75,7 +73,7 @@ But the heart of this application is about scheduling and with all the various t
 
 ---
 
-## **Personae**
+# **Personae**
 
 1. Steven - Junior Developer Software
    https://www.hubspot.com/make-my-persona?persona=-LiN-g_i5jy4NYX6MyTv
@@ -88,6 +86,6 @@ But the heart of this application is about scheduling and with all the various t
 
 ---
 
-## **Feature List**
+# **Feature List**
 
 https://github.com/Dayday05/ScheduleMe/projects/1
