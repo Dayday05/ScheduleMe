@@ -89,3 +89,9 @@ But the heart of this application is about scheduling and with all the various t
 # **Feature List**
 
 https://github.com/Dayday05/ScheduleMe/projects/1
+
+---
+
+# **Epics/US**
+
+https://github.com/Dayday05/ScheduleMe/issues
