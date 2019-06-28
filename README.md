@@ -1,6 +1,4 @@
-# **Project: ScheduleMe**
-
----
+# **ScheduleMe**
 
 # **Description**
 
@@ -9,10 +7,8 @@ written in JS and using:
 
 To be defined
 
----
-
 # **Doc**
 
-**Installation**
-**Deployment**
-**Troubleshooting**
+- **Installation**
+- **Deployment**
+- **Troubleshooting**
