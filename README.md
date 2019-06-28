@@ -92,6 +92,6 @@ https://github.com/Dayday05/ScheduleMe/projects/1
 
 ---
 
-# **Epics/US**
+# **Dashboard**
 
 https://github.com/Dayday05/ScheduleMe/issues
